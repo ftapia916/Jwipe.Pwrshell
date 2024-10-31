@@ -1,3 +1,8 @@
+
+  <p align="center">
+   
+   ![wipe-a-hard-drive-3](https://github.com/user-attachments/assets/d18dcd66-462b-443c-83ff-bd73d3f5be2b)
+
 <h1>JWipe - Disk Sanitization</h1>
 
 
